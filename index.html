@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="main">
+      <input type="text" id="screen" class="input" placeholder="0" />
+    </div>
+    <div class="border">
+      <button onclick="clearall()" class="ac">Ac</button>
+      <button onclick="getValue('%')" class="kdiv">%</button>
+      <button onclick="getValue('/')" class="kdiv">/</button> <br />
+      <br />
+      <button onclick="getValue('7')" class="k7">7</button>
+      <button onclick="getValue('8')" class="k8">8</button>
+      <button onclick="getValue('9')" class="k9">9</button>
+      <button onclick="getValue('*')" class="kmul">*</button> <br />
+      <br />
+      <button onclick="getValue('4')" class="k4">4</button>
+      <button onclick="getValue('5')" class="k5">5</button>
+      <button onclick="getValue('6')" class="k6">6</button>
+      <button onclick="getValue('+')" class="kplus">+</button> <br />
+      <br />
+      <button onclick="getValue('1')" class="k1">1</button>
+      <button onclick="getValue('2')" class="k2">2</button>
+      <button onclick="getValue('3')" class="k3">3</button>
+      <button onclick="getValue('0')" class="k0">0</button><br />
+      <br />
+      `
+      <button onclick="getValue('-')" class="k-">-</button>
+
+      <button onclick="equal()" class="equal">=</button>
+
+      <button onclick="clearone()" class="kc">clear</button>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>

@@ -1,0 +1,200 @@
+.border {
+    height: 350px;
+    width: 300px;
+    background-color: aqua;
+    margin-top: -370px;
+    margin-left: 40px;
+    border-radius: 20px 20px 20px 20px;
+}
+
+.main {
+    height: 550px;
+    width: 400px;
+    background-color: rgb(98, 22, 219);
+    border-radius: 20px 20px 20px 20px;
+}
+
+.input {
+    border: none;
+    background-color: rgb(183, 211, 209);
+    height: 40px;
+    width: 280px;
+    border-radius: 10px 10px 10px 10px;
+    font-size: 40px;
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.ac {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px 10px 10px 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+.k1 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.kdiv {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 50px;
+
+}
+
+.k7 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 15px;
+
+}
+
+.k8 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+
+}
+
+.k9 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.kmul {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k2 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k3 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k4 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.k5 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k6 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k0 {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.k- {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 15px;
+}
+
+.kplus {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.equal {
+    width: 40px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 20px;
+}
+
+.kc {
+    width: 90px;
+    height: 40px;
+    border-radius: 15px 15px 15px 15px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 253, 4);
+    font-size: 30px;
+    margin-left: 30px;
+}
